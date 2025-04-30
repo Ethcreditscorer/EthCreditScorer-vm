@@ -1,0 +1,25 @@
+Address: 0x9AAb3F81604c683a1a0D14019FBfe15bef7aA1ee
+
+=== ACCOUNT OVERVIEW ===
+• Age: 1999.2 days
+• Balance: 6.5019 ETH
+• Transactions: 288539
+• Success Rate: 97.75%
+• Token Diversity: 0
+• DeFi Interactions: 0
+
+=== SECURITY ANALYSIS ===
+• Malicious Interactions: 0
+
+• Mixer Transactions: 0
+
+=== REPUTATION-BACKED DELEGATION ===
+• Delegation Capacity: 0.65 points
+• Staked Collateral: 0.3251 ETH
+• Reputation Score: 0.00/1.0
+• Successful Delegations: 0.00%
+• Uses ZKP: No
+
+============================================================
+💳 FINAL CREDIT SCORE: 757/1000
+👍 Very Good - Strong financial history
