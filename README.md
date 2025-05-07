@@ -67,7 +67,7 @@ python credit_scorer.py
 
 Sample input:
 ```
-Enter Ethereum wallet address (0x...): 0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae
+Enter Ethereum wallet address (0x...): 0x71C7656EC7ab88b098defB751B7401B5f6d8976F
 ```
 
 ## Key Components
